@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-# JavaScript e a Câmara dos Algoritmos 🔮
+#JavaScript e a Câmara dos Algoritmos 🔮
 </p>
 
 
