@@ -39,7 +39,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um titulo de ebook sobre o tema de JavaScript, o ebook é do nicho de programação e o subnicho é de JavaScript, o titulo deve ser épico e curto e tenha uma temática mais nerd, e que tenha uma temática de Harry Potter no título. Me liste 5 variações de titulos. |
-| :------: | 
+| | 
 | conteúdo | Faça um texto para ebook , com foco em JavaScript, listando os principais seletores JavaScript com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
