@@ -16,11 +16,11 @@
     width="400"  
 />
 </p>
-<p align="center">
+
 # Projeto EBOOK Gerado por I.A.s
 
- 🔮 "JavaScript e a Câmara dos Algoritmos"
-
+<p align="center">
+## 🔮 "JavaScript e a Câmara dos Algoritmos"
 </p>
 
  Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
