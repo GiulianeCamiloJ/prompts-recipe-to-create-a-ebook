@@ -17,9 +17,9 @@
 />
 </p>
 
-<p align="center">
-#    JavaScript e a Câmara dos Algoritmos 🔮
-</p>
+
+# JavaScript e a Câmara dos Algoritmos 🔮
+
 
 
  Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
