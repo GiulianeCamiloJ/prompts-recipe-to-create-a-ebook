@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 <p align="center">
-## 🔮 "JavaScript e a Câmara dos Algoritmos"
+#🔮 "JavaScript e a Câmara dos Algoritmos"
 </p>
 
  Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
