@@ -61,12 +61,12 @@ Gemini：
 - Imagens utilizadas em `.github/assets`
 - ebook gerado durante as aulas em `output`
 
-<p>
     
     <p>&nbsp&nbsp&nbspGiuliane Camilo<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/GiulianeCamiloJ">
     GitHub</a>&nbsp;|&nbsp;
+
     <a href="www.linkedin.com/in/giulianecamilo/">LinkedIn</a>
 &nbsp;|&nbsp;
     
