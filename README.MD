@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src=".github/assets/harry.jpg"
     width="400"  
 />
 </p>
@@ -58,16 +58,11 @@ Gemini：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
+- Imagens utilizadas em `.github/assets`
 - ebook gerado durante as aulas em `output`
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
+    
     <p>&nbsp&nbsp&nbspGiuliane Camilo<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/GiulianeCamiloJ">
